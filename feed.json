@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "velambasa",
+    "description": "",
+    "home_page_url": "https://velambasa.github.io/mywebsite",
+    "feed_url": "https://velambasa.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "vela"
+    },
+    "items": [
+    ]
+}
